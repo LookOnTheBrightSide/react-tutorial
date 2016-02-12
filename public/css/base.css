@@ -60,3 +60,14 @@ p, ul {
 ul {
   padding-left: 30px;
 }
+
+
+
+#welcome {
+  border: 1px solid rebeccapurple;
+  padding: 1rem;
+  font-size: 1.2rem;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
